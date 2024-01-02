@@ -39,7 +39,7 @@ print("Amount",regr.predict([[3300,1300]]))
 
 ```
 ## Output:
-
+![output](./Output.png)
 
 <br>
 
